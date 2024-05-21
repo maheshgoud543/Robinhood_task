@@ -1,0 +1,30 @@
+.userIns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 20px;
+  }
+  
+  .userIns div {
+    background-color: #3A495A;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 30%;
+    box-sizing: border-box;
+  }
+  
+  .userIns p:first-child {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .userIns p {
+    font-size: 1em;
+    color: white;
+    line-height: 1.4;
+  }
+  

@@ -1,0 +1,24 @@
+.DailyandHourly{
+     background-color: #3A495A;
+     margin-top: 1rem;
+     padding: 2rem;
+     color: white;
+     border: 2px solid white;
+}
+.Daily_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Week_Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.Hourly_Conatiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5.5rem;
+}

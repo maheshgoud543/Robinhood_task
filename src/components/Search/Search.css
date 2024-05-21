@@ -1,0 +1,57 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+
+}
+
+.Input_Data {
+    display: flex;
+    gap: 1rem;
+
+}
+
+input {
+    padding: 0.5rem;
+    border-radius: 3rem;
+    border: none;
+}
+
+.Icons {
+    color: white;
+    transition: transform 0.3s ease;
+}
+
+.Icons:hover {
+    transform: scale(1.5);
+}
+
+.Location_Data {
+    display: flex;
+    color: white;
+}
+
+img {
+    width: 20px;
+}
+
+.Units_Data {
+    display: flex;
+    color: white;
+}
+
+select {
+    padding: 5px;
+    font-size: inherit;
+    background-color: inherit;
+    color: white;
+    border-radius: none;
+}
+
+option {
+    background-color: #646059   ;
+    color: white;   
+}

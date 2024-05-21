@@ -1,0 +1,20 @@
+.Container_Weather{
+    background-color: #3A495A;
+    padding: 1rem;
+    border: 2px solid white;
+    padding-top: 5rem;
+}
+ .Weather{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+.WeatherData{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 2rem;
+} 
